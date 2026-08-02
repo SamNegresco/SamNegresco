@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Samuel
 
-<!--
-**SamNegresco/SamNegresco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante do curso Técnico em Informática
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Atualmente estudo Python, HTML, CSS e MySQL
+- 📍 Goiás, Brasil
+- 🎯 Em busca de evoluir como desenvolvedor
+
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+</p>
+
+
+## 🎯 Objetivos
+
+- Aprimorar minhas habilidades em programação.
+- Desenvolver projetos para meu portfólio.
+- Aprender novas tecnologias.
+
+## 📫 Contato
+
+- GitHub: @SamNegresco
